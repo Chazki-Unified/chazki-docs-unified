@@ -25,7 +25,7 @@
     },
     {
         "name": "Shopify ",
-        "yaml": "https://raw.githubusercontent.com/Redocly/museum-openapi-example/main/openapi.yaml",
+        "yaml": "https://raw.githubusercontent.com/Chazki-Unified/open-api-docs/main/shopify.yaml",
         "page": "shopify",
         "id": "shopify-docs-id"
     }
